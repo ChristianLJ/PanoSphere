@@ -1,5 +1,5 @@
 /*!
- * Photo Sphere Viewer 1.0 by Christian Leicht Jørgensen
+ * PanoSphere 1.0 by Christian Leicht Jørgensen
  
  * Based on Photo Sphere Viewer 3.2.2 by: 
     * Copyright (c) 2014-2015 Jérémy Heleine
